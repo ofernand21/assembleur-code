@@ -1,5 +1,6 @@
 //Exercice 1
 
+
 //1) Traduction de code C en assembleur
 MOV Ax, a
 MOV Ax, b
